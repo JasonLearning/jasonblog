@@ -1,4 +1,10 @@
 ---
+keywords:
+- ubuntu
+- python
+- ubuntu安装python
+- python3.6
+- 服务器安装python
 title: "ubuntu下python安装的正确打开方式"
 date: 2017-12-31T10:31:01+08:00
 ---
